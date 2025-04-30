@@ -140,3 +140,29 @@ Recent Activity
 Billing Intelligence
 
 “Top billable project from this month.”
+
+
+Technical Details 
+
+GitHub URL: 
+[Provide your GitHub repository link here] 
+
+ 
+
+What features did you use when building your solution? 
+
+ 
+
+#Salesforce AgentForce for agent creation and topic configuration 
+
+Jira REST API for data retrieval 
+
+Apex Classes (e.g., JiraProjectSummaryAction, JiraTopBillableProjectAction,… 8 More classes) 
+
+Slack Integration for conversational agent interaction 
+
+Email Template Configuration for sending updates from Salesforce 
+
+Permission Sets for secure access control 
+
+Structured Prompt Design for accurate and efficient data querying 
